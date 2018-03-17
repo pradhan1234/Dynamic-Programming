@@ -1,1 +1,1 @@
-<h3> This repo contains code for Dynamic Programming: Fibo and Rod Cutting </h3>
+<h3> This repo contains code for Dynamic Programming: Fibonacci and Rod Cutting </h3>
